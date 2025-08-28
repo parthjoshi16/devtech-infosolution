@@ -84,7 +84,7 @@ export default function Contact() {
                     </div>
                     {/* Right: Illustration */}
                     <div className="flex items-center justify-center mt-8 md:mt-0">
-                        <img src="/images/contact/contact-us.jpg" alt="Contact Illustration" className="w-full max-w-xs sm:max-w-sm md:max-w-md rounded-xl shadow-lg" />
+                        <img src="images/contact/contact-us.jpg" alt="Contact Illustration" className="w-full max-w-xs sm:max-w-sm md:max-w-md rounded-xl shadow-lg" />
                     </div>
                 </div>
             </section>

@@ -11,7 +11,7 @@ export default function Footer() {
                     {/* Logo & About */}
                     <div className="md:col-span-2 flex flex-col">
                         <div className="flex items-center mb-4">
-                            <img src="/logo-2.png" width="160" height="160" alt="Devtech Logo" />
+                            <img src="logo-2.png" width="160" height="160" alt="Devtech Logo" />
                         </div>
                         <p className="text-gray-300 text-sm mb-4">
                             Devtech Infosolution Pvt Ltd is a trusted leader in the realm of SAP S/4 HANA Transformation solutions, dedicated to empowering businesses to thrive in the digital era.

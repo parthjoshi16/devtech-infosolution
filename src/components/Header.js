@@ -20,7 +20,7 @@ export default function Header({ active }) {
         <header className="bg-white border-b border-gray-200 sticky top-0 z-40">
             <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-4">
                 <div className="flex items-center space-x-2">
-                    <img src="/logo.png" width="160" height="160" alt="Devtech Logo" />
+                    <img src="logo.png" width="160" height="160" alt="Devtech Logo" />
                 </div>
                 {/* Desktop Nav */}
                 <nav className="hidden md:flex space-x-8 text-base items-center">

@@ -45,7 +45,7 @@ export default function About() {
             <section className="py-16 bg-white">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center">
                     <div className="relative flex flex-col items-center md:items-start">
-                        <img src="/images/about/home-about-2.jpg" alt="Team" className="object-cover w-full h-full" width="240" height="240" />
+                        <img src="images/about/home-about-2.jpg" alt="Team" className="object-cover w-full h-full" width="240" height="240" />
                     </div>
                     <div>
                         <p className="text-gray-700 font-semibold mb-2">Discover the Future with Us</p>
@@ -89,7 +89,7 @@ export default function About() {
                     </div>
                     <div className="flex items-center justify-center">
                         <div className="rounded-xl overflow-hidden shadow-lg w-[320px] h-[340px] flex items-center justify-center bg-gray-100">
-                            <img src="/images/about/why-choose-us.webp" alt="Why Choose Us" className="object-cover w-full h-full" width="56" height="56" />
+                            <img src="images/about/why-choose-us.webp" alt="Why Choose Us" className="object-cover w-full h-full" width="56" height="56" />
                         </div>
                     </div>
                     <div className="flex flex-col justify-between">

@@ -75,7 +75,7 @@ export default function Career() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
                         <div className="flex justify-center">
-                            <img src="/images/career/career-1.jpg" alt="Career" className="w-[340px] md:w-[420px] rounded-xl shadow-lg" />
+                            <img src="images/career/career-1.jpg" alt="Career" className="w-[340px] md:w-[420px] rounded-xl shadow-lg" />
                         </div>
                         <div>
                             <h2 className="text-gray-900 text-lg font-semibold mb-4">
