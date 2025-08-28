@@ -25,7 +25,7 @@ export default function About() {
                 <div
                     className="relative max-w-8xl px-4 sm:px-32 py-20 md:py-28 z-10 w-full flex flex-col justify-center"
                     style={{
-                        backgroundImage: "linear-gradient(90deg, var(--primary-dark) 0%, var(--primary) 40%, rgba(255,255,255,0) 100%), url('/images/about/about.jpg')",
+                        backgroundImage: "linear-gradient(90deg, var(--primary-dark) 0%, var(--primary) 40%, rgba(255,255,255,0) 100%), url('images/about/about.jpg')",
                         backgroundSize: "cover",
                         backgroundPosition: "right",
                         backgroundRepeat: "no-repeat",
