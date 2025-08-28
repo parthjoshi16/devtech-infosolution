@@ -16,7 +16,6 @@ const navigation = [
 export default function Home() {
   return (
     <div className="container min-h-screen bg-white font-sans">
-      {/* Header */}
       <Header active="home" />
 
       {/* Hero Section */}
