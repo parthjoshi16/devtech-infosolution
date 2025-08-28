@@ -22,7 +22,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative min-h-[500px] flex items-center overflow-hidden py-20"
         style={{
-          backgroundImage: "url('/Bxca.jpg')",
+          backgroundImage: "url('Bxca.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "right",
           backgroundRepeat: "no-repeat",
@@ -90,7 +90,7 @@ export default function Home() {
               </svg>
             </span>
             {/* <div className="rounded-xl overflow-hidden shadow-lg absolute left-24 top-36 w-[260px] h-[180px] border-4 border-white bg-white"> */}
-            <img src="/home-page-img.avif" alt="Team" className="object-cover w-full h-full" />
+            <img src="home-page-img.avif" alt="Team" className="object-cover w-full h-full" />
             {/* </div> */}
           </div>
           <div>
