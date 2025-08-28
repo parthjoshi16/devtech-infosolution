@@ -43,9 +43,9 @@ export default function Home() {
             ))}
           </div>
         </div>
-        <div className="relative max-w-full ml-24 px-4 py-4 sm:px-6 lg:px-8 gap-12 items-center z-10">
+        <div className="relative max-w-full sm:ml-24 px-4 py-4 sm:px-6 lg:px-8 gap-12 items-center z-10">
           <div>
-            <h1 className="text-white text-4xl md:text-6xl font-bold mb-6 leading-tight">
+            <h1 className="text-white text-3xl sm:text-4xl md:text-6xl font-bold mb-6 leading-tight">
               Your Trusted Partner for<br />
               <span className="text-primary">SAP and IT Consulting</span><br />
               Solutions
